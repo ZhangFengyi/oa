@@ -12,3 +12,4 @@ dev update 02
 8888888
 9999999
 local update
+github update
